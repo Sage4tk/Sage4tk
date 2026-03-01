@@ -33,7 +33,6 @@ I'm an aspiring front-end developer from the Philippines, currently living and w
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-*(Feel free to update this with your actual stack!)*
 
 ---
 
